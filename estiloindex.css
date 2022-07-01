@@ -1,0 +1,267 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+#header{
+  
+ 
+  background-image: url(https://us.123rf.com/450wm/anikakodydkova/anikakodydkova1507/anikakodydkova150700004/43568410-herramientas-de-dibujos-animados-sobre-fondo-oscuro-textura-fluida-ilustraci%C3%B3n-vectorial.jpg);
+  width: 100%;
+  height: 700px;
+  flex-wrap: wrap;
+}
+#ima{
+  width: 100%;
+  
+  display: flex;
+  margin:5%;
+  margin-top: 10%;
+  justify-content:space-around;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+
+#lu{
+  color: white;
+  padding-top: 5%;
+  padding-left: 20%;
+
+
+}
+#lus{
+  color: white;
+  padding-left: 20%;
+
+}
+#foto{
+ padding:15px;
+}
+#foto2{
+ padding:15px;
+}
+#foto3{
+ padding:15px;
+}
+#foto4{
+  padding:15px;
+
+}
+#con{
+  width: 100%;
+
+ 
+  flex-wrap: wrap;
+}
+
+
+
+#body{
+  
+  background-color: black;
+  width: 100%;
+  height: 100vh;
+}
+#h2{
+  display: flex;
+  justify-content: center;
+  color: white;
+  
+ 
+}
+#card1{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-left: 0%;
+  margin-top: 80px;
+  display: flex;
+
+}
+
+#h23{
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-top: 56px;
+  
+  margin-bottom:50px;
+
+}
+#ayudaAceite{
+  display: flex;
+  justify-content: center;
+  margin-left:11%;
+  display: flex;
+  flex-direction: row;
+
+
+}
+#parr{
+  display: flex;
+  color: white;
+  font-family: sans-serif;
+  margin-right: 8%;
+  margin-top: 5%;
+
+
+}
+#im2{
+  display: flex;
+  justify-content: center;
+  margin-right: 90px;
+
+}
+#banda{
+  
+  justify-content: center;
+    margin-bottom: 100px;
+    margin-top: 80px;
+    width: 100%;
+    height: 300px;
+    background-color: #595755;
+
+
+}
+#pala{
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding-top: 50px;
+  
+  font-size: 30px;
+}
+#palad{
+  padding-right: 80px;
+  margin-left: 1200px;
+  margin-top: -150px;
+
+}
+#bt{
+  display: flex;
+  justify-content: center;
+  padding-left: 200px;
+  margin-top: -50px;
+}
+#bi{
+  
+  border: white 1px solid;
+}
+#bi:hover{
+  border:black 4px solid;
+  font-size: 30px;
+  transition: 5s;
+  
+   transform: rotate(360deg)
+ }
+ #c{
+    margin-left: 34%;
+    font-size: 30px;
+    font-family: sans-serif;
+
+ }
+ #r{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+
+  justify-content: center;
+
+ }
+#t{
+  margin-top: 60px;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+#footer{
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  height:60vh;
+  background-color:#404840;
+  margin-top: 50px;
+
+}
+#final{
+  color: white;
+  font-family: sans-serif;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+
+}
+#des{
+  display: flex; 
+  justify-content: center;
+  width: 100%;
+}
+  
+  
+
+}
+#i{
+  display: flex;
+  margin-left: 50%;
+ 
+
+}
+
+#frame{
+  width: 100%;
+  height: 350px;
+  margin-top: 2%;
+  display: flex;
+  justify-content: flex-end;
+
+  
+ 
+
+}
+#contif{
+  margin-top: 150px;
+}
+#fg{
+  display: flex;
+  color: white;
+  margin-left: 50%;
+
+}
+#gg{
+  padding-top: 10%;
+}
+#in{
+
+  display: flex;
+  justify-content:center;
+  flex-wrap: wrap;
+  color: white;
+  padding-top: 70px;
+  width: 100%;
+  height: 100px;
+  margin-top: -50px;
+
+
+ 
+}
+#w{
+  text-decoration: none;
+}
+#j{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+@media screen and (max-width: 400px){
+  #body{
+  color: white;
+}
+
+}

@@ -1,0 +1,53 @@
+#header{
+  width: 100%;
+  width: 300px;
+  background-color: yellow;
+}
+
+
+#body{
+background-color: orange;
+margin:0;
+padding: 0;
+box-sizing: border-box;
+  
+  
+}
+#h2{
+  color: white;
+  margin-left: 32%;
+  margin-top: 3%;
+  font-size: 100px;
+}
+#aten{
+  width: 300px;
+  height: 200px;
+  margin-left:40%;
+  margin-top: 3%;
+  border: 1px blue solid;
+}
+#hs{
+  font:sans-serif;
+  font-size: 20px;
+  text-shadow: 1px 1px 1px white;
+  color: black;
+  display: flex;
+  justify-content: center;
+  margin-top:3%;
+}
+#hs1{
+  font-size: 35px;
+  color: white;
+  margin-left: 3%;
+  font-weight: 900;
+}
+#proveedores{
+  width: 70%;
+  height: 900px;
+  background-color: blue;
+}
+
+
+#ca{
+  color:blue;
+}
